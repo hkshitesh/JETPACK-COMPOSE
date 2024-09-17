@@ -1,4 +1,4 @@
-# Snapbar Code
+# Snackbar Code
 
 
 @Composable
